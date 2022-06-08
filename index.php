@@ -101,8 +101,7 @@
             <div class="col-md-4"></div>
             <div class="col-md-4 wellfix">
                 <h4><strong>Developed By</strong></h4><hr>
-                <a href="https://www.facebook.com/">Mr.Kamal Kadayat</a>
-             <a href="kamal.jpg">  <img src="kamal.jpg" alt="admin" width="100" height="80" ></a> 
+             <a href="team.jpg">  <img src="team.jpg" alt="admin" width="100" height="80" ></a> 
             
 
             </div>

@@ -55,7 +55,7 @@ CREATE TABLE `rooms` (
   `checkin` date NOT NULL,
   `checkout` date NOT NULL,
   `name` text NOT NULL,
-  `phone` int(100) NOT NULL,
+  `phone` float(10) NOT NULL,
   `book` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 

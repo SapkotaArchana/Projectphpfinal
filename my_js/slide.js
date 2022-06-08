@@ -14,5 +14,5 @@ function slide()
             myIndex=1;
         }
     x[myIndex-1].style.display="block";
-    setTimeout(slide,2500);
+    setTimeout(slide,3000);
 }
