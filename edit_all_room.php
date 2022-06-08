@@ -66,7 +66,7 @@ if(isset($_REQUEST[ 'submit']))
 
       <div class="well">
             <h2>EDIT</h2>
-          <h2><?php echo  $row['room_cat']?></h2>h2>
+          <h2><?php echo  $row['room_cat']?></h2>
             <hr>
             <form action="" method="post" name="room_category">
               
